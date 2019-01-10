@@ -1,3 +1,5 @@
+# équipe :  mandajm  &  rasoamaharo  : pseudo github
+
 # project pair-programming
 
 #say_hello.rb  programme de salutation
